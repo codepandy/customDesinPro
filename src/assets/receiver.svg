@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>收件信息</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="运力调度-调度台-查看订单" transform="translate(-361.000000, -587.000000)">
+            <g id="订单流程节点" transform="translate(331.000000, 129.000000)">
+                <g id="收件信息" transform="translate(30.000000, 458.000000)">
+                    <g id="Group-8">
+                        <g id="收件信息">
+                            <circle id="椭圆形" fill="#009BFF" opacity="0.100000001" cx="22" cy="22" r="22"></circle>
+                            <g id="用户" transform="translate(9.000000, 9.000000)">
+                                <rect id="矩形" fill="#000000" opacity="0" x="0" y="0" width="26" height="26"></rect>
+                                <path d="M19.09375,12.675 C17.55,14.38125 15.4375,15.4375 13,15.4375 C10.5625,15.4375 8.45,14.38125 6.90625,12.675 C4.7125,14.4625 3.25,17.225 3.25,20.3125 C3.25,22.99375 5.44375,25.1875 8.125,25.1875 L17.875,25.1875 C20.55625,25.1875 22.75,22.99375 22.75,20.3125 C22.75,17.225 21.2875,14.4625 19.09375,12.675 Z" id="路径" fill="#009BFF"></path>
+                                <path d="M6.5,7.3125 C6.5,10.9023509 9.41014913,13.8125 13,13.8125 C16.5898509,13.8125 19.5,10.9023509 19.5,7.3125 C19.5,3.72264913 16.5898509,0.8125 13,0.8125 C9.41014913,0.8125 6.5,3.72264913 6.5,7.3125 Z" id="路径" fill="#009BFF"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

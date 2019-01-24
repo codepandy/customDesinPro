@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="26px" viewBox="0 0 26 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>进度未开始</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="运力调度-调度台-查看订单" transform="translate(-569.000000, -232.000000)" fill="#FFFFFF" stroke="#D8D8D8" stroke-width="2">
+            <g id="订单流程节点" transform="translate(331.000000, 129.000000)">
+                <g id="搜索条件" transform="translate(30.000000, 104.000000)">
+                    <g id="完成-copy" transform="translate(108.000000, 0.000000)">
+                        <g id="椭圆形-copy-7" transform="translate(101.000000, 0.000000)">
+                            <circle id="进度未开始" cx="12" cy="12" r="12"></circle>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
